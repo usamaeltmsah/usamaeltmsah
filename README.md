@@ -1,6 +1,6 @@
 ### Hi there, I'm Usama Fouad - aka [usamaeltmsah][website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/usama_fouad)
+[![Twitter Follow](https://img.shields.io/twitter/follow/usama_fouad?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/usama_fouad)
 
 ## I'm a Husband, Father, Developer, and Teacher!
 
