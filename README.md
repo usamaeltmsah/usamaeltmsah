@@ -79,11 +79,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web/pull/6) in [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web)
-2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-3. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-5. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. 🎉 Merged PR [#1](https://github.com//usamaeltmsah/Ruby-Software-Engineering/pull/1) in [usamaeltmsah/Ruby-Software-Engineering](https://github.com//usamaeltmsah/Ruby-Software-Engineering)
+2. 💪 Opened PR [#1](https://github.com//usamaeltmsah/Ruby-Software-Engineering/pull/1) in [usamaeltmsah/Ruby-Software-Engineering](https://github.com//usamaeltmsah/Ruby-Software-Engineering)
+3. 🎉 Merged PR [#9](https://github.com//usamaeltmsah/Ruby-Practice/pull/9) in [usamaeltmsah/Ruby-Practice](https://github.com//usamaeltmsah/Ruby-Practice)
+4. 💪 Opened PR [#9](https://github.com//usamaeltmsah/Ruby-Practice/pull/9) in [usamaeltmsah/Ruby-Practice](https://github.com//usamaeltmsah/Ruby-Practice)
+5. 🎉 Merged PR [#8](https://github.com//usamaeltmsah/Ruby-Practice/pull/8) in [usamaeltmsah/Ruby-Practice](https://github.com//usamaeltmsah/Ruby-Practice)
 <!--END_SECTION:activity-->
 
 </details>
