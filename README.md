@@ -79,11 +79,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com//usamaeltmsah/Ruby-Software-Engineering/pull/8) in [usamaeltmsah/Ruby-Software-Engineering](https://github.com//usamaeltmsah/Ruby-Software-Engineering)
-2. 💪 Opened PR [#8](https://github.com//usamaeltmsah/Ruby-Software-Engineering/pull/8) in [usamaeltmsah/Ruby-Software-Engineering](https://github.com//usamaeltmsah/Ruby-Software-Engineering)
-3. 🎉 Merged PR [#7](https://github.com//usamaeltmsah/Ruby-Software-Engineering/pull/7) in [usamaeltmsah/Ruby-Software-Engineering](https://github.com//usamaeltmsah/Ruby-Software-Engineering)
-4. 💪 Opened PR [#7](https://github.com//usamaeltmsah/Ruby-Software-Engineering/pull/7) in [usamaeltmsah/Ruby-Software-Engineering](https://github.com//usamaeltmsah/Ruby-Software-Engineering)
-5. 🎉 Merged PR [#6](https://github.com//usamaeltmsah/Ruby-Software-Engineering/pull/6) in [usamaeltmsah/Ruby-Software-Engineering](https://github.com//usamaeltmsah/Ruby-Software-Engineering)
+1. 🎉 Merged PR [#9](https://github.com//usamaeltmsah/Ruby-Software-Engineering/pull/9) in [usamaeltmsah/Ruby-Software-Engineering](https://github.com//usamaeltmsah/Ruby-Software-Engineering)
+2. 💪 Opened PR [#9](https://github.com//usamaeltmsah/Ruby-Software-Engineering/pull/9) in [usamaeltmsah/Ruby-Software-Engineering](https://github.com//usamaeltmsah/Ruby-Software-Engineering)
+3. 🎉 Merged PR [#8](https://github.com//usamaeltmsah/Ruby-Software-Engineering/pull/8) in [usamaeltmsah/Ruby-Software-Engineering](https://github.com//usamaeltmsah/Ruby-Software-Engineering)
+4. 💪 Opened PR [#8](https://github.com//usamaeltmsah/Ruby-Software-Engineering/pull/8) in [usamaeltmsah/Ruby-Software-Engineering](https://github.com//usamaeltmsah/Ruby-Software-Engineering)
+5. 🎉 Merged PR [#7](https://github.com//usamaeltmsah/Ruby-Software-Engineering/pull/7) in [usamaeltmsah/Ruby-Software-Engineering](https://github.com//usamaeltmsah/Ruby-Software-Engineering)
 <!--END_SECTION:activity-->
 
 </details>
