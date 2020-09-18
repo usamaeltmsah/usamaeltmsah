@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/usama_fouad?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/usama_fouad)
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Developer, Maker, and Guitarian!
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
