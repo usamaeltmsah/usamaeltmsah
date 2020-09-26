@@ -78,11 +78,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com//usamaeltmsah/Ruby-Practice/pull/10) in [usamaeltmsah/Ruby-Practice](https://github.com//usamaeltmsah/Ruby-Practice)
-2. 💪 Opened PR [#10](https://github.com//usamaeltmsah/Ruby-Practice/pull/10) in [usamaeltmsah/Ruby-Practice](https://github.com//usamaeltmsah/Ruby-Practice)
-3. 🎉 Merged PR [#1](https://github.com//usamaeltmsah/Todo-Board/pull/1) in [usamaeltmsah/Todo-Board](https://github.com//usamaeltmsah/Todo-Board)
-4. 💪 Opened PR [#1](https://github.com//usamaeltmsah/Todo-Board/pull/1) in [usamaeltmsah/Todo-Board](https://github.com//usamaeltmsah/Todo-Board)
-5. 🎉 Merged PR [#3](https://github.com//usamaeltmsah/Tic-Tac-Toe/pull/3) in [usamaeltmsah/Tic-Tac-Toe](https://github.com//usamaeltmsah/Tic-Tac-Toe)
+1. 🎉 Merged PR [#10](https://github.com/usamaeltmsah/Ruby-Practice/pull/10) in [usamaeltmsah/Ruby-Practice](https://github.com/usamaeltmsah/Ruby-Practice)
+2. 💪 Opened PR [#10](https://github.com/usamaeltmsah/Ruby-Practice/pull/10) in [usamaeltmsah/Ruby-Practice](https://github.com/usamaeltmsah/Ruby-Practice)
+3. 🎉 Merged PR [#1](https://github.com/usamaeltmsah/Todo-Board/pull/1) in [usamaeltmsah/Todo-Board](https://github.com/usamaeltmsah/Todo-Board)
+4. 💪 Opened PR [#1](https://github.com/usamaeltmsah/Todo-Board/pull/1) in [usamaeltmsah/Todo-Board](https://github.com/usamaeltmsah/Todo-Board)
+5. 🎉 Merged PR [#3](https://github.com/usamaeltmsah/Tic-Tac-Toe/pull/3) in [usamaeltmsah/Tic-Tac-Toe](https://github.com/usamaeltmsah/Tic-Tac-Toe)
 <!--END_SECTION:activity-->
 
 </details>
