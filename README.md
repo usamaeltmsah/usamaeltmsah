@@ -78,11 +78,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/usamaeltmsah/Ruby-Software-Engineering/pull/12) in [usamaeltmsah/Ruby-Software-Engineering](https://github.com/usamaeltmsah/Ruby-Software-Engineering)
-2. 💪 Opened PR [#12](https://github.com/usamaeltmsah/Ruby-Software-Engineering/pull/12) in [usamaeltmsah/Ruby-Software-Engineering](https://github.com/usamaeltmsah/Ruby-Software-Engineering)
-3. 🎉 Merged PR [#10](https://github.com/usamaeltmsah/Ruby-Practice/pull/10) in [usamaeltmsah/Ruby-Practice](https://github.com/usamaeltmsah/Ruby-Practice)
-4. 💪 Opened PR [#10](https://github.com/usamaeltmsah/Ruby-Practice/pull/10) in [usamaeltmsah/Ruby-Practice](https://github.com/usamaeltmsah/Ruby-Practice)
-5. 🎉 Merged PR [#1](https://github.com/usamaeltmsah/Todo-Board/pull/1) in [usamaeltmsah/Todo-Board](https://github.com/usamaeltmsah/Todo-Board)
+1. 🎉 Merged PR [#1](https://github.com/App-Academy-Projects/02.Ruby-Software-Engineering/pull/1) in [App-Academy-Projects/02.Ruby-Software-Engineering](https://github.com/App-Academy-Projects/02.Ruby-Software-Engineering)
+2. 💪 Opened PR [#1](https://github.com/App-Academy-Projects/02.Ruby-Software-Engineering/pull/1) in [App-Academy-Projects/02.Ruby-Software-Engineering](https://github.com/App-Academy-Projects/02.Ruby-Software-Engineering)
+3. 🎉 Merged PR [#4](https://github.com/usamaeltmsah/Tic-Tac-Toe/pull/4) in [usamaeltmsah/Tic-Tac-Toe](https://github.com/usamaeltmsah/Tic-Tac-Toe)
+4. 💪 Opened PR [#4](https://github.com/usamaeltmsah/Tic-Tac-Toe/pull/4) in [usamaeltmsah/Tic-Tac-Toe](https://github.com/usamaeltmsah/Tic-Tac-Toe)
+5. 🎉 Merged PR [#12](https://github.com/usamaeltmsah/Ruby-Software-Engineering/pull/12) in [usamaeltmsah/Ruby-Software-Engineering](https://github.com/usamaeltmsah/Ruby-Software-Engineering)
 <!--END_SECTION:activity-->
 
 </details>
