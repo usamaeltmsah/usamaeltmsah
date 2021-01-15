@@ -24,6 +24,11 @@
 <details>
   <summary>📺 Latest YouTube Videos</summary>
 <!-- YOUTUBE:START -->
+- [Arduino with photo-resistor (LDR sensor)](https://www.youtube.com/watch?v=EKOt_JjvD5A)
+- [Minesweeper-AI CS50 AI](https://www.youtube.com/watch?v=WALsiz1YkO0)
+- [Tic-Tac-Toc Ai CS50 Project 0](https://www.youtube.com/watch?v=2wItjesIV6w)
+- [CS50 AI Project 0  Degrees](https://www.youtube.com/watch?v=pMbC5iQUV7M)
+- [سورة الكهف بصوت الشيخ ماهر المعيقلي  #الجمعة](https://www.youtube.com/watch?v=s1nlyZKFIJM)
 <!-- YOUTUBE:END -->
 </details>
 
