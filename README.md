@@ -7,7 +7,7 @@
 - 🔭 I’m currently learning on a [Hacking With Swift Course](https://www.hackingwithswift.com/100/)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Take new courses and build more projects
 - ⚡ Fun fact: I love to code and play guitar
 
 ### Connect with me:
