@@ -44,14 +44,20 @@
 
 ---
 
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+</details>
 
 ---
 
 <br />
-
+<details>
+  <summary>:zap: GitHub Stats</summary>
  <img align="left" alt="usamaeltmsah's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=usamaeltmsah&show_icons=true&hide_border=true&theme=highcontrast" />
+</details>
 
 [twitter]: https://twitter.com/usama_fouad
 [youtube]: https://www.youtube.com/channel/UCKV_YQHNBqjjriKHUfe-2jg?view_as=subscriber
