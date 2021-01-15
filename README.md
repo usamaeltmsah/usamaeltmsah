@@ -21,28 +21,10 @@
 
 ---
 
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
----
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-</details>
-
----
 
 [twitter]: https://twitter.com/usama_fouad
 [youtube]: https://www.youtube.com/channel/UCKV_YQHNBqjjriKHUfe-2jg?view_as=subscriber
