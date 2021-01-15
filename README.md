@@ -26,9 +26,9 @@
 
 <!--START_SECTION:activity-->
 
----
-
 </details>
+
+---
 
 [twitter]: https://twitter.com/usama_fouad
 [youtube]: https://www.youtube.com/channel/UCKV_YQHNBqjjriKHUfe-2jg?view_as=subscriber
