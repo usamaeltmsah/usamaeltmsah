@@ -24,11 +24,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://www.youtube.com/watch?v=LaWubpSqiPk)
-- [STACKr News 2021 (January Week 1) | Top Web Dev Videos You NEED to Watch!](https://www.youtube.com/watch?v=cCdYYYaJhWg)
-- [Fancy Burger Menu Button - Animated CSS Effects (2021)](https://www.youtube.com/watch?v=6HS8owNMCb4)
-- [YouTube Rewind 2020 - Web Dev Edition!](https://www.youtube.com/watch?v=F9ON_E6-y1E)
-- ["Glassmorphism" Frosted Glass Credit Card Form with Validation | HTML, CSS, JavaScript](https://www.youtube.com/watch?v=jEa9YyRqE1U)
+- [Arduino with photo-resistor (LDR sensor)](https://www.youtube.com/watch?v=EKOt_JjvD5A)
+- [Minesweeper-AI CS50 AI](https://www.youtube.com/watch?v=WALsiz1YkO0)
+- [Tic-Tac-Toc Ai CS50 Project 0](https://www.youtube.com/watch?v=2wItjesIV6w)
+- [CS50 AI Project 0  Degrees](https://www.youtube.com/watch?v=pMbC5iQUV7M)
+- [سورة الكهف بصوت الشيخ ماهر المعيقلي  #الجمعة](https://www.youtube.com/watch?v=s1nlyZKFIJM)
 <!-- YOUTUBE:END -->
 
 ---
