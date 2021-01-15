@@ -44,6 +44,11 @@
 
 ---
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 <br />
 
  <img align="left" alt="usamaeltmsah's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=usamaeltmsah&show_icons=true&hide_border=true&theme=highcontrast" />
