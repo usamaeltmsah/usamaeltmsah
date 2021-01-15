@@ -21,11 +21,25 @@
 
 ---
 
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+---
+
 <details>
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-
+<!--END_SECTION:activity-->
 </details>
 
 ---
