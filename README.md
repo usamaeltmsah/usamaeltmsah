@@ -18,7 +18,6 @@
 [<img align="left" alt="Usama Fouad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<br />
 
 ---
 
@@ -43,11 +42,11 @@
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
-
 ---
 
- <img align="left" alt="usamaeltmsah's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=usamaeltmsah&show_icons=true&hide_border=true" />
+<br />
+
+ <img align="left" alt="usamaeltmsah's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=usamaeltmsah&show_icons=true&hide_border=true&theme=highcontrast" />
 
 [twitter]: https://twitter.com/usama_fouad
 [youtube]: https://www.youtube.com/channel/UCKV_YQHNBqjjriKHUfe-2jg?view_as=subscriber
