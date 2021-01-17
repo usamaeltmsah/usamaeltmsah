@@ -32,6 +32,9 @@
 </details>
 -->
 
+
+---
+
 <details>
   <summary>:zap: Recent Github Activity</summary>
 
@@ -43,14 +46,6 @@
 5. 💪 Opened PR [#4](https://github.com/usamaeltmsah/Tic-Tac-Toe/pull/4) in [usamaeltmsah/Tic-Tac-Toe](https://github.com/usamaeltmsah/Tic-Tac-Toe)
 <!--END_SECTION:activity-->
 
-</details>
-
----
-
-<br />
-<details>
-  <summary>:zap: GitHub Stats</summary>
- <img align="left" alt="usamaeltmsah's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=usamaeltmsah&show_icons=true&hide_border=true&theme=highcontrast" />
 </details>
 
 ---
@@ -69,6 +64,15 @@
 </details>
 
 ---
+
+<br />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+ <img align="left" alt="usamaeltmsah's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=usamaeltmsah&show_icons=true&hide_border=true&theme=highcontrast" />
+</details>
+
+
 [twitter]: https://twitter.com/usama_fouad
 [youtube]: https://www.youtube.com/channel/UCKV_YQHNBqjjriKHUfe-2jg?view_as=subscriber
 [instagram]: https://instagram.com/usama_fouad
