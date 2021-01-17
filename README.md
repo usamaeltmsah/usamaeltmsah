@@ -21,20 +21,6 @@
 
 ---
 
-<details>
-  <summary>📺 Latest YouTube Videos</summary>
-  
-<!-- YOUTUBE:START -->
-- [Arduino with photo-resistor (LDR sensor)](https://www.youtube.com/watch?v=EKOt_JjvD5A)
-- [Minesweeper-AI CS50 AI](https://www.youtube.com/watch?v=WALsiz1YkO0)
-- [Tic-Tac-Toc Ai CS50 Project 0](https://www.youtube.com/watch?v=2wItjesIV6w)
-- [CS50 AI Project 0  Degrees](https://www.youtube.com/watch?v=pMbC5iQUV7M)
-- [سورة الكهف بصوت الشيخ ماهر المعيقلي  #الجمعة](https://www.youtube.com/watch?v=s1nlyZKFIJM)
-<!-- YOUTUBE:END -->
-  
-</details>
-
----
 <!--
 <details>
   <summary>📕 Latest Blog Posts</summary>
@@ -67,6 +53,22 @@
  <img align="left" alt="usamaeltmsah's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=usamaeltmsah&show_icons=true&hide_border=true&theme=highcontrast" />
 </details>
 
+---
+
+<details>
+  <summary>📺 Latest YouTube Videos</summary>
+  
+<!-- YOUTUBE:START -->
+- [Arduino with photo-resistor (LDR sensor)](https://www.youtube.com/watch?v=EKOt_JjvD5A)
+- [Minesweeper-AI CS50 AI](https://www.youtube.com/watch?v=WALsiz1YkO0)
+- [Tic-Tac-Toc Ai CS50 Project 0](https://www.youtube.com/watch?v=2wItjesIV6w)
+- [CS50 AI Project 0  Degrees](https://www.youtube.com/watch?v=pMbC5iQUV7M)
+- [سورة الكهف بصوت الشيخ ماهر المعيقلي  #الجمعة](https://www.youtube.com/watch?v=s1nlyZKFIJM)
+<!-- YOUTUBE:END -->
+  
+</details>
+
+---
 [twitter]: https://twitter.com/usama_fouad
 [youtube]: https://www.youtube.com/channel/UCKV_YQHNBqjjriKHUfe-2jg?view_as=subscriber
 [instagram]: https://instagram.com/usama_fouad
