@@ -35,16 +35,16 @@
 </details>
 
 ---
-
+<!--
 <details>
   <summary>📕 Latest Blog Posts</summary>
-
+-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<!--
 </details>
-
----
+-->
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
