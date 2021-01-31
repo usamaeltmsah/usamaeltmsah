@@ -34,7 +34,7 @@
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
-
+  
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#3](https://github.com/HR-Bot-Org/HR-Bot-Backend/pull/3) in [HR-Bot-Org/HR-Bot-Backend](https://github.com/HR-Bot-Org/HR-Bot-Backend)
 2. 🎉 Merged PR [#1](https://github.com/App-Academy-Projects/02.Ruby-Software-Engineering/pull/1) in [App-Academy-Projects/02.Ruby-Software-Engineering](https://github.com/App-Academy-Projects/02.Ruby-Software-Engineering)
