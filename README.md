@@ -36,11 +36,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/usamaeltmsah/Day-Planner/pull/3) in [usamaeltmsah/Day-Planner](https://github.com/usamaeltmsah/Day-Planner)
-2. 💪 Opened PR [#3](https://github.com/usamaeltmsah/Day-Planner/pull/3) in [usamaeltmsah/Day-Planner](https://github.com/usamaeltmsah/Day-Planner)
-3. 🎉 Merged PR [#2](https://github.com/usamaeltmsah/Day-Planner/pull/2) in [usamaeltmsah/Day-Planner](https://github.com/usamaeltmsah/Day-Planner)
-4. 🎉 Merged PR [#4](https://github.com/usamaeltmsah/Tic-Tac-Toe/pull/4) in [usamaeltmsah/Tic-Tac-Toe](https://github.com/usamaeltmsah/Tic-Tac-Toe)
-5. 💪 Opened PR [#4](https://github.com/usamaeltmsah/Tic-Tac-Toe/pull/4) in [usamaeltmsah/Tic-Tac-Toe](https://github.com/usamaeltmsah/Tic-Tac-Toe)
+1. 🎉 Merged PR [#4](https://github.com/usamaeltmsah/Day-Planner/pull/4) in [usamaeltmsah/Day-Planner](https://github.com/usamaeltmsah/Day-Planner)
+2. 💪 Opened PR [#4](https://github.com/usamaeltmsah/Day-Planner/pull/4) in [usamaeltmsah/Day-Planner](https://github.com/usamaeltmsah/Day-Planner)
+3. 🎉 Merged PR [#3](https://github.com/usamaeltmsah/Day-Planner/pull/3) in [usamaeltmsah/Day-Planner](https://github.com/usamaeltmsah/Day-Planner)
+4. 💪 Opened PR [#3](https://github.com/usamaeltmsah/Day-Planner/pull/3) in [usamaeltmsah/Day-Planner](https://github.com/usamaeltmsah/Day-Planner)
+5. 🎉 Merged PR [#2](https://github.com/usamaeltmsah/Day-Planner/pull/2) in [usamaeltmsah/Day-Planner](https://github.com/usamaeltmsah/Day-Planner)
 <!--END_SECTION:activity-->
 
 </details>
