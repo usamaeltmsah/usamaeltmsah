@@ -4,7 +4,7 @@
 
 ## I'm a Developer, Maker, and Guitarian!
 
-- 🔭 I’m currently walkthrough the [Hacking With Swift Course](https://www.hackingwithswift.com/100/)!
+- 🔭 I’m currently working as freelancer iOS Developer.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Take new courses and build more projects
