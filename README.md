@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working as freelancer iOS Developer.
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Take new courses and build more projects
 - ⚡ Fun fact: I love to code and play guitar
 
@@ -66,7 +65,7 @@
 
 ### GitHub Stats
 
- <img align="left" alt="usamaeltmsah's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=usamaeltmsah&show_icons=true&hide_border=true&theme=highcontrast" />
+ <img align="left" alt="usamaeltmsah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=usamaeltmsah&show_icons=true&theme=radical" />
 
 [twitter]: https://twitter.com/usama_fouad
 [youtube]: https://www.youtube.com/channel/UCKV_YQHNBqjjriKHUfe-2jg?view_as=subscriber
