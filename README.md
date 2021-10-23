@@ -35,8 +35,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/usamaeltmsah/Day-Planner/pull/7) in [usamaeltmsah/Day-Planner](https://github.com/usamaeltmsah/Day-Planner)
-2. 💪 Opened PR [#7](https://github.com/usamaeltmsah/Day-Planner/pull/7) in [usamaeltmsah/Day-Planner](https://github.com/usamaeltmsah/Day-Planner)
+1. 🎉 Merged PR [#1](https://github.com/usamaeltmsah/iOS-Projects/pull/1) in [usamaeltmsah/iOS-Projects](https://github.com/usamaeltmsah/iOS-Projects)
+2. 💪 Opened PR [#1](https://github.com/usamaeltmsah/iOS-Projects/pull/1) in [usamaeltmsah/iOS-Projects](https://github.com/usamaeltmsah/iOS-Projects)
 3. 🎉 Merged PR [#6](https://github.com/usamaeltmsah/Day-Planner/pull/6) in [usamaeltmsah/Day-Planner](https://github.com/usamaeltmsah/Day-Planner)
 4. 💪 Opened PR [#6](https://github.com/usamaeltmsah/Day-Planner/pull/6) in [usamaeltmsah/Day-Planner](https://github.com/usamaeltmsah/Day-Planner)
 5. 🎉 Merged PR [#5](https://github.com/usamaeltmsah/Day-Planner/pull/5) in [usamaeltmsah/Day-Planner](https://github.com/usamaeltmsah/Day-Planner)
