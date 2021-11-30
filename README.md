@@ -5,9 +5,10 @@
 ## I'm a Developer, Maker, and Guitarian!
 
 - 🔭 I’m currently working as freelancer iOS Developer.
+- 📚 I’m currently read the Atomic Habits book.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Take new courses and build more projects
-- ⚡ Fun fact: I love to code and play guitar
+- 🥅 2021 Goals: Take new courses and build more projects.
+- ⚡ Fun fact: I love to code and play guitar.
 
 ### Connect with me:
 
