@@ -66,9 +66,9 @@
 
 ### GitHub Stats
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" alt="usamaeltmsah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=usamaeltmsah&show_icons=true&theme=radical" />
-<!-- </a> -->
+</a>
 
 <!--
 <img align="left" alt="usamaeltmsah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=usamaeltmsah&show_icons=true&theme=radical"/>
@@ -76,9 +76,9 @@
 
 ### Top languages
 
-<!-- <a href="https://github.com/anuraghazra/convoychat"> -->
+<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" alt="usamaeltmsah's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamaeltmsah&theme=material-palenight&hide=javascript,html&langs_count=7&layout=compact" />
-<!-- </a> -->
+</a>
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usamaeltmsah&theme=material-palenight&hide=javascript,html&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
