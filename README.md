@@ -66,7 +66,23 @@
 
 ### GitHub Stats
 
- <img align="left" alt="usamaeltmsah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=usamaeltmsah&show_icons=true&theme=radical" />
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=usamaeltmsah&show_icons=true&theme=radical" />
+<!-- </a> -->
+
+<!--
+<img align="left" alt="usamaeltmsah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=usamaeltmsah&show_icons=true&theme=radical"/>
+-->
+
+### Top languages
+
+<!-- <a href="https://github.com/anuraghazra/convoychat"> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamaeltmsah&theme=material-palenight&hide=javascript,html&langs_count=7&layout=compact" />
+<!-- </a> -->
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usamaeltmsah&theme=material-palenight&hide=javascript,html&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 [twitter]: https://twitter.com/usama_fouad
 [youtube]: https://www.youtube.com/channel/UCKV_YQHNBqjjriKHUfe-2jg?view_as=subscriber
