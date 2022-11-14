@@ -50,11 +50,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/usamaeltmsah/Topotify/pull/1) in [usamaeltmsah/Topotify](https://github.com/usamaeltmsah/Topotify)
-2. ❌ Closed PR [#4](https://github.com/usamaeltmsah/Topotify/pull/4) in [usamaeltmsah/Topotify](https://github.com/usamaeltmsah/Topotify)
-3. ❌ Closed PR [#5](https://github.com/usamaeltmsah/Topotify/pull/5) in [usamaeltmsah/Topotify](https://github.com/usamaeltmsah/Topotify)
-4. ❌ Closed PR [#6](https://github.com/usamaeltmsah/Topotify/pull/6) in [usamaeltmsah/Topotify](https://github.com/usamaeltmsah/Topotify)
-5. ❌ Closed PR [#7](https://github.com/usamaeltmsah/Topotify/pull/7) in [usamaeltmsah/Topotify](https://github.com/usamaeltmsah/Topotify)
+1. 🎉 Merged PR [#8](https://github.com/usamaeltmsah/Day-Planner/pull/8) in [usamaeltmsah/Day-Planner](https://github.com/usamaeltmsah/Day-Planner)
+2. 💪 Opened PR [#8](https://github.com/usamaeltmsah/Day-Planner/pull/8) in [usamaeltmsah/Day-Planner](https://github.com/usamaeltmsah/Day-Planner)
+3. ❌ Closed PR [#1](https://github.com/usamaeltmsah/Topotify/pull/1) in [usamaeltmsah/Topotify](https://github.com/usamaeltmsah/Topotify)
+4. ❌ Closed PR [#4](https://github.com/usamaeltmsah/Topotify/pull/4) in [usamaeltmsah/Topotify](https://github.com/usamaeltmsah/Topotify)
+5. ❌ Closed PR [#5](https://github.com/usamaeltmsah/Topotify/pull/5) in [usamaeltmsah/Topotify](https://github.com/usamaeltmsah/Topotify)
 <!--END_SECTION:activity-->
   
    <a href="https://github.com/usamaeltmsah"><img alt="usamaeltmsah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=usamaeltmsah&custom_title=usamaeltmsah's%20Contribution%20Graph&theme=react-dark" /></a>
