@@ -14,9 +14,9 @@
 - 🔭 I’m currently working as fulltime iOS Developer.
 - 👨‍💻 In addition to my current job, I work as a freelancer
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Take new courses and build more projects, and work in an international inc.
+- 🥅 2023 Goals: Take new courses and build more projects, and work in an international inc.
 - ⚡ Fun fact: I love to code and play guitar.
-- 📚 I’m currently read the `Head First Design Patterns` & `RxSwift: Reactive programming with Swift` books.
+- 📚 I’m currently read the `Head First Design Patterns` book. <!-- & `RxSwift: Reactive programming with Swift` books. -->
 <!-- - 📚 I’m currently read the Atomic Habits book. -->
 
 
