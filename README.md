@@ -37,6 +37,7 @@
 
 <details>
   <summary>📕 Latest Blog Posts</summary>
+  
 <!-- BLOG-POST-LIST:START -->
 - [Building sepia theme for mobile browser using CSS](https://dev.to/usamaeltmsah/building-sepia-theme-for-mobile-browser-using-css-3ei4)
 <!-- BLOG-POST-LIST:END -->
