@@ -9,15 +9,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chalkduster&color=7AF79A&size=30&lines=Hi!+It's+Usama+Fouad;I'm+an+iOS+Developer...;And+I+love+coding+💻)](https://git.io/typing-svg)
 
 
-## I'm a Developer, Maker, and Guitarian!
+## I'm a Developer, Maker, and chess player!
 
-- 🔭 I’m currently working as fulltime iOS Developer.
+- 🔭 I’m currently working as a full-time iOS Developer.
 - 👨‍💻 In addition to my current job, I work as a freelancer
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Take new courses and build more projects, and work in an international inc.
-- ⚡ Fun fact: I love to code and play guitar.
-- 📚 I’m currently read the `Head First Design Patterns` book. <!-- & `RxSwift: Reactive programming with Swift` books. -->
-<!-- - 📚 I’m currently read the Atomic Habits book. -->
+- 🥅 2023 Goals: Take new courses build more projects and work in an international inc.
+- ⚡ Fun fact: I love to code and play chess.
+- 📚 I’m currently reading the `Head First Design Patterns` book. <!-- & `RxSwift: Reactive programming with Swift` books. -->
+<!-- - 📚 I’m currently reading the Atomic Habits book. -->
 
 
 ### Connect with me:
