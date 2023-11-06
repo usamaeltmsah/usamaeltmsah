@@ -50,7 +50,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15](https://github.com/varunpm1/VPMOTPView/issues/15) in [varunpm1/VPMOTPView](https://github.com/varunpm1/VPMOTPView)
+1. 🗣 Commented on [#10047](https://github.com/firebase/firebase-ios-sdk/issues/10047#issuecomment-1794122495) in [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)
 2. 🎉 Merged PR [#8](https://github.com/usamaeltmsah/Day-Planner/pull/8) in [usamaeltmsah/Day-Planner](https://github.com/usamaeltmsah/Day-Planner)
 3. 💪 Opened PR [#8](https://github.com/usamaeltmsah/Day-Planner/pull/8) in [usamaeltmsah/Day-Planner](https://github.com/usamaeltmsah/Day-Planner)
 4. ❌ Closed PR [#1](https://github.com/usamaeltmsah/Topotify/pull/1) in [usamaeltmsah/Topotify](https://github.com/usamaeltmsah/Topotify)
