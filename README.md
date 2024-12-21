@@ -68,11 +68,11 @@
   <summary>📺 Latest YouTube Videos</summary>
   
 <!-- YOUTUBE:START -->
+- [Meet Usama  Your Go To iOS Developer!](https://www.youtube.com/watch?v=tQY_Ez2le04)
 - [Custom Spotify Alarm](https://www.youtube.com/watch?v=94iYjuddzJI)
 - [Time Hero - iOS App - Demo](https://www.youtube.com/watch?v=Lk2TXxJ44co)
 - [Arduino with photo-resistor &lpar;LDR sensor&rpar;](https://www.youtube.com/watch?v=EKOt_JjvD5A)
 - [Minesweeper-AI CS50 AI](https://www.youtube.com/watch?v=WALsiz1YkO0)
-- [Tic-Tac-Toc Ai CS50 Project 0](https://www.youtube.com/watch?v=2wItjesIV6w)
 <!-- YOUTUBE:END -->
   
 </details>
