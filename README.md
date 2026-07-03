@@ -1,6 +1,6 @@
 ### Hi there, I'm Usama Fouad - aka [usamaeltmsah](https://www.linkedin.com/in/usama-fouad-270672110/) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 
-<img src="https://komarev.com/ghpvc/?username=usamaeltmsah&label=Profile Views&color=brightgreen&style=flat-square" alt="views on github" />
+<img src="https://komarev.com/ghpvc/?username=usamaeltmsah&label=ProfileViews&color=brightgreen&style=flat-square" alt="views on github" />
 
 [![GitHub followers](https://img.shields.io/github/followers/usamaeltmsah.svg?style=social&label=Followers)](https://github.com/usamaeltmsah?tab=followers)
 
@@ -14,7 +14,7 @@
 - 🔭 I’m currently working as a full-time iOS Developer.
 - 👨‍💻 In addition to my current job, I work as a freelancer
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2025 Goals: Take new courses build more projects  ~~and work in an international inc~~.
+- 🥅 2026 Goals: Take new courses, build more projects, and grow into a Senior iOS Developer role.
 - ⚡ Fun fact: I love to code and play chess.
 - 📚 I’m currently reading the `Clean Architecture` book. <!-- & `RxSwift: Reactive programming with Swift` books. -->
 <!-- - 📚 I’m currently reading the Atomic Habits book. -->
@@ -25,7 +25,7 @@
 [<img align="left" alt="Usama Fouad | YouTube" width="22px" src="https://images.vexels.com/media/users/3/137425/isolated/preview/f2ea1ded4d037633f687ee389a571086-youtube-icon-logo-by-vexels.png" />][youtube]
 [<img align="left" alt="Usama Fouad | Twitter" width="22px" src="https://cdn3.iconfinder.com/data/icons/basicolor-reading-writing/24/077_twitter-512.png" />][twitter]
 [<img align="left" alt="Usama Fouad | LinkedIn" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />][linkedin]
-[<img align="left" alt="Usama Fouad | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />][instagram]
+[<img align="left" alt="Usama Fouad | Instagram" width="22px" src="https://img.icons8.com/fluency/48/instagram-new.png" />][instagram]
 <a href="https://www.hackerrank.com/usamaeltmsah1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dosa" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/usamafouad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="lol" height="30" width="40" /></a>
 <a href="https://leetcode.com/usamaeltmsah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dosa" height="30" width="40" /></a>
@@ -90,7 +90,7 @@
 
 ### <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50" />&nbsp;Git profile Trophies <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamaeltmsah&theme=gruvbox"  alt="usamaeltmsah's most used languages" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=usamaeltmsah&theme=gruvbox" alt="usamaeltmsah's GitHub Trophies" /></a> </p>
 
 ### Languages and Tools
 <p align="left"> 
@@ -100,8 +100,7 @@
     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-line.svg" alt="laravel" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>  
@@ -115,7 +114,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamaeltmsah&theme=material-palenight&hide=javascript,html&langs_count=7&layout=compact" alt="usamaeltmsah's most used languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usamaeltmsah&show_icons=true&theme=radical&locale=en" alt="usamaeltmsah's GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=usamaeltmsah&show_icons=true&theme=radical&locale=en&cache_seconds=86400" alt="usamaeltmsah's GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usamaeltmsah&theme=radical" alt="usamaeltmsah's contributions" /></p>
 
