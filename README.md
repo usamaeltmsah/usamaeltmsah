@@ -57,7 +57,7 @@
 5. 💪 Opened PR [#16](https://github.com/usamaeltmsah/ci-cd-ios-test/pull/16) in [usamaeltmsah/ci-cd-ios-test](https://github.com/usamaeltmsah/ci-cd-ios-test)
 <!--END_SECTION:activity-->
   
-   <a href="https://github.com/usamaeltmsah"><img alt="usamaeltmsah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=usamaeltmsah&custom_title=usamaeltmsah's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/usamaeltmsah"><img alt="usamaeltmsah's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=usamaeltmsah&custom_title=usamaeltmsah's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
