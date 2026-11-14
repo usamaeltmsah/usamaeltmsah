@@ -74,9 +74,9 @@ Everyone who visits plays the same game. Pick a move below; it opens a ready-mad
 Say hi! Your avatar and message will appear here.
 
 <!--GUESTBOOK:START-->
-[**✍️ Sign the guestbook**](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=guestbook%7Csign&body=Replace%20this%20line%20with%20your%20message%20%28up%20to%20140%20characters%29%2C%20then%20press%20%2A%2ACreate%2A%2A.) · 0 signatures so far
+[**✍️ Sign the guestbook**](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=guestbook%7Csign&body=Replace%20this%20line%20with%20your%20message%20%28up%20to%20140%20characters%29%2C%20then%20press%20%2A%2ACreate%2A%2A.) · 1 signature so far
 
-_Be the first to sign!_
+- <a href="https://github.com/usamaeltmsah"><img src="https://github.com/usamaeltmsah.png?size=40" width="20" height="20" alt="" /></a> **[@usamaeltmsah](https://github.com/usamaeltmsah)**: Welcome to my profile\! Thanks for stopping by 👋 <sub>2026-11-14</sub>
 <!--GUESTBOOK:END-->
 
 ---
