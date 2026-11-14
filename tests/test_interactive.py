@@ -55,8 +55,14 @@ class ChessTests(unittest.TestCase):
     def test_render_lists_every_legal_move_as_issue_link(self):
         text = ia.render_chess(ia.new_game_state(1))
         self.assertEqual(text.count("chess%7Cmove%7C"), 20)
-        self.assertIn("White's", text)
+        self.assertIn("**White** to move", text)
         self.assertIn("chess|move|g1f3|1", unquote(text))
+
+    def test_render_is_compact_with_moves_folded(self):
+        text = ia.render_chess(ia.new_game_state(1))
+        self.assertIn('width="170" align="right"', text)
+        self.assertLess(text.index("<details>"), text.index("chess%7Cmove%7C"))
+        self.assertIn(ia.PLAY_URL, text)
 
     def test_render_game_over_offers_new_game(self):
         state = ia.new_game_state(1)
@@ -97,7 +103,10 @@ class GuestbookTests(unittest.TestCase):
 
     def test_render_empty_and_count(self):
         self.assertIn("Be the first", ia.render_guestbook([]))
-        self.assertIn("1 signature so far", ia.render_guestbook([{"user": "a", "message": "m", "date": "d"}]))
+        text = ia.render_guestbook([{"user": "a", "message": "m", "date": "d"}])
+        self.assertIn("1 signature ·", text)
+        self.assertLess(text.index("a.png"), text.index("<details>"))
+        self.assertGreater(text.index("**[@a]"), text.index("<details>"))
 
 
 class HandleTests(unittest.TestCase):

@@ -32,10 +32,12 @@ GUESTBOOK_STATE = DATA_DIR / "guestbook.json"
 CHESS_START, CHESS_END = "<!--CHESS:START-->", "<!--CHESS:END-->"
 GUESTBOOK_START, GUESTBOOK_END = "<!--GUESTBOOK:START-->", "<!--GUESTBOOK:END-->"
 
-GUESTBOOK_SHOWN = 10
+PLAY_URL = "https://usamaeltmsah.github.io/chess/"
+PLAY_BADGE = "https://img.shields.io/badge/%E2%96%B6%EF%B8%8F%20Play%20with%20drag%20and%20drop-7c3aed?style=for-the-badge"
+
+GUESTBOOK_SHOWN = 12
 GUESTBOOK_MAX_CHARS = 140
-RECENT_MOVES_SHOWN = 5
-LEADERBOARD_SHOWN = 5
+LEADERBOARD_SHOWN = 3
 
 
 class VisitorError(Exception):
@@ -130,27 +132,41 @@ def render_moves_table(board: chess.Board, game: int) -> str:
     return "\n".join(rows)
 
 
+def user_link(user: str) -> str:
+    return f"[@{user}](https://github.com/{user})"
+
+
 def render_chess(state: dict) -> str:
+    """A compact card: small board floated right, one status line, the move list folded away."""
     board = board_from_state(state)
     turn = "White" if board.turn == chess.WHITE else "Black"
-    lines = [f"**Game {state['game']}** · move {board.fullmove_number}"]
+    status = f"Game {state['game']} · move {board.fullmove_number}"
     if board.is_game_over():
-        lines += ["", result_text(board), "", f"[**♻️ Start a new game**]({issue_link('chess|new', MOVE_BODY)})"]
+        status += f" · {result_text(board)}"
     else:
-        check = " — **check!**" if board.is_check() else ""
-        lines[0] += f" · it's **{turn}'s** turn{check}"
-    lines += ["", '<img src="interactive/board.svg" width="360" alt="Current chess board" />', ""]
-    if not board.is_game_over():
-        lines += [render_moves_table(board, state["game"]), ""]
-    recent = state["moves"][-RECENT_MOVES_SHOWN:][::-1]
-    if recent:
-        lines += ["**Last moves**", "", "| Move | Played by |", "| :---: | :--- |"]
-        lines += [f"| {m['san']} | [@{m['user']}](https://github.com/{m['user']}) |" for m in recent]
-        lines.append("")
+        status += f" · **{turn}** to move{' · **check!**' if board.is_check() else ''}"
+    if state["moves"]:
+        last = state["moves"][-1]
+        status += f" · last: **{last['san']}** by {user_link(last['user'])}"
+    lines = [
+        f'<a href="{PLAY_URL}"><img src="interactive/board.svg" width="170" align="right" alt="Current chess board, click to play" /></a>',
+        "",
+        "**♟️ Community chess:** every visitor plays the same game.",
+        "",
+        status,
+        "",
+    ]
+    if board.is_game_over():
+        lines += [f"[**♻️ Start a new game**]({issue_link('chess|new', MOVE_BODY)})", ""]
+    else:
+        lines += [f'<a href="{PLAY_URL}"><img src="{PLAY_BADGE}" alt="Play with drag and drop" /></a>', ""]
     leaders = sorted(state["players"].items(), key=lambda kv: (-kv[1], kv[0]))[:LEADERBOARD_SHOWN]
     if leaders:
-        lines.append("**🏆 Top players:** " + " · ".join(f"[@{u}](https://github.com/{u}) ({n})" for u, n in leaders))
-    return "\n".join(lines).strip()
+        lines += ["🏆 " + " · ".join(f"{user_link(u)} ({n})" for u, n in leaders), ""]
+    if not board.is_game_over():
+        lines += ["<details>", "  <summary>Or pick a move from the list</summary>", "", render_moves_table(board, state["game"]), "", "</details>", ""]
+    lines.append('<br clear="right" />')
+    return "\n".join(lines)
 
 
 def render_board_svg(state: dict) -> str:
@@ -181,14 +197,26 @@ def sign_guestbook(entries: list[dict], user: str, message: str, when: str) -> l
 
 
 def render_guestbook(entries: list[dict]) -> str:
-    lines = [f"[**✍️ Sign the guestbook**]({issue_link('guestbook|sign', GUESTBOOK_BODY)}) · {len(entries)} signature{'s' if len(entries) != 1 else ''} so far", ""]
-    for e in entries[:GUESTBOOK_SHOWN]:
-        lines.append(
-            f'- <a href="https://github.com/{e["user"]}"><img src="https://github.com/{e["user"]}.png?size=40" width="20" height="20" alt="" /></a> '
-            f"**[@{e['user']}](https://github.com/{e['user']})**: {e['message']} <sub>{e['date']}</sub>"
-        )
+    """One line with a row of signer avatars; the messages stay folded until someone opens them."""
+    count = f"{len(entries)} signature{'s' if len(entries) != 1 else ''}"
+    lines = [f"**✍️ Guestbook** · {count} · [**Sign it**]({issue_link('guestbook|sign', GUESTBOOK_BODY)})", ""]
     if not entries:
         lines.append("_Be the first to sign!_")
+        return "\n".join(lines)
+    shown = entries[:GUESTBOOK_SHOWN]
+    lines += [
+        " ".join(
+            f'<a href="https://github.com/{e["user"]}"><img src="https://github.com/{e["user"]}.png?size=64" width="32" height="32" alt="@{e["user"]}" /></a>'
+            for e in shown
+        ),
+        "",
+        "<details>",
+        "  <summary>Read the messages</summary>",
+        "",
+        *(f"- **{user_link(e['user'])}**: {e['message']} <sub>{e['date']}</sub>" for e in shown),
+        "",
+        "</details>",
+    ]
     return "\n".join(lines)
 
 
