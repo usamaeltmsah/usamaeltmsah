@@ -5,9 +5,15 @@
       "uci": "e2e4",
       "san": "e4",
       "user": "usamaeltmsah"
+    },
+    {
+      "uci": "d7d5",
+      "san": "d5",
+      "user": "usamaeltmsahvodafone"
     }
   ],
   "players": {
-    "usamaeltmsah": 1
+    "usamaeltmsah": 1,
+    "usamaeltmsahvodafone": 1
   }
 }
