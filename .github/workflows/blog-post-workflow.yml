@@ -1,16 +1,20 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    - cron: "15 */6 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v5
+      - uses: gautamkrishnar/blog-post-workflow@1.9.7
         with:
           feed_list: "https://dev.to/feed/usamaeltmsah"
+          # The stats workflow commits regularly, so the empty keep-alive commits aren't needed.
+          enable_keepalive: false
