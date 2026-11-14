@@ -151,11 +151,11 @@ Game 1 · move 2 · **Black** to move · last: **exd5** by [@usamaeltmsah](https
   <summary>⚡ Recent GitHub activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/usamaeltmsah/usamaeltmsah/issues/7) in [usamaeltmsah/usamaeltmsah](https://github.com/usamaeltmsah/usamaeltmsah)
-2. ❗ Opened issue [#6](https://github.com/usamaeltmsah/usamaeltmsah/issues/6) in [usamaeltmsah/usamaeltmsah](https://github.com/usamaeltmsah/usamaeltmsah)
-3. ❗ Opened issue [#4](https://github.com/usamaeltmsah/usamaeltmsah/issues/4) in [usamaeltmsah/usamaeltmsah](https://github.com/usamaeltmsah/usamaeltmsah)
-4. ❗ Opened issue [#3](https://github.com/usamaeltmsah/usamaeltmsah/issues/3) in [usamaeltmsah/usamaeltmsah](https://github.com/usamaeltmsah/usamaeltmsah)
-5. ❗ Opened issue [#2](https://github.com/usamaeltmsah/usamaeltmsah/issues/2) in [usamaeltmsah/usamaeltmsah](https://github.com/usamaeltmsah/usamaeltmsah)
+1. ❗ Opened issue [#8](https://github.com/usamaeltmsah/usamaeltmsah/issues/8) in [usamaeltmsah/usamaeltmsah](https://github.com/usamaeltmsah/usamaeltmsah)
+2. ❗ Opened issue [#7](https://github.com/usamaeltmsah/usamaeltmsah/issues/7) in [usamaeltmsah/usamaeltmsah](https://github.com/usamaeltmsah/usamaeltmsah)
+3. ❗ Opened issue [#6](https://github.com/usamaeltmsah/usamaeltmsah/issues/6) in [usamaeltmsah/usamaeltmsah](https://github.com/usamaeltmsah/usamaeltmsah)
+4. ❗ Opened issue [#4](https://github.com/usamaeltmsah/usamaeltmsah/issues/4) in [usamaeltmsah/usamaeltmsah](https://github.com/usamaeltmsah/usamaeltmsah)
+5. ❗ Opened issue [#3](https://github.com/usamaeltmsah/usamaeltmsah/issues/3) in [usamaeltmsah/usamaeltmsah](https://github.com/usamaeltmsah/usamaeltmsah)
 <!--END_SECTION:activity-->
 
 </details>
