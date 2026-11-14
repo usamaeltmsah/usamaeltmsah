@@ -47,6 +47,9 @@ jobs:
     needs: activity
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: master
       - uses: vn7n24fzkq/github-profile-summary-cards@v0.13.0
         env:
           # Add a PAT named SUMMARY_CARDS_TOKEN (read:user, repo) to include private contributions.
