@@ -38,6 +38,41 @@
 
 ---
 
+### ♟️ Let's play chess: a game for all my visitors
+
+Everyone who visits plays the same game. Pick a move below; it opens a ready-made issue, you press **Create**, and within about a minute the board updates with your name on it. You can't play two moves in a row, so bring a friend to play the other side!
+
+<!--CHESS:START-->
+**Game 1** · move 1 · it's **White's** turn
+
+<img src="interactive/board.svg" width="360" alt="Current chess board" />
+
+| Piece | Moves (click to play) |
+| :---: | :--- |
+| ♙ **A2** | [A3](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=chess%7Cmove%7Ca2a3%7C1&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20no%20need%20to%20write%20anything.%20Your%20move%20is%20applied%20within%20about%20a%20minute.), [A4](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=chess%7Cmove%7Ca2a4%7C1&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20no%20need%20to%20write%20anything.%20Your%20move%20is%20applied%20within%20about%20a%20minute.) |
+| ♘ **B1** | [A3](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=chess%7Cmove%7Cb1a3%7C1&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20no%20need%20to%20write%20anything.%20Your%20move%20is%20applied%20within%20about%20a%20minute.), [C3](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=chess%7Cmove%7Cb1c3%7C1&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20no%20need%20to%20write%20anything.%20Your%20move%20is%20applied%20within%20about%20a%20minute.) |
+| ♙ **B2** | [B3](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=chess%7Cmove%7Cb2b3%7C1&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20no%20need%20to%20write%20anything.%20Your%20move%20is%20applied%20within%20about%20a%20minute.), [B4](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=chess%7Cmove%7Cb2b4%7C1&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20no%20need%20to%20write%20anything.%20Your%20move%20is%20applied%20within%20about%20a%20minute.) |
+| ♙ **C2** | [C3](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=chess%7Cmove%7Cc2c3%7C1&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20no%20need%20to%20write%20anything.%20Your%20move%20is%20applied%20within%20about%20a%20minute.), [C4](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=chess%7Cmove%7Cc2c4%7C1&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20no%20need%20to%20write%20anything.%20Your%20move%20is%20applied%20within%20about%20a%20minute.) |
+| ♙ **D2** | [D3](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=chess%7Cmove%7Cd2d3%7C1&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20no%20need%20to%20write%20anything.%20Your%20move%20is%20applied%20within%20about%20a%20minute.), [D4](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=chess%7Cmove%7Cd2d4%7C1&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20no%20need%20to%20write%20anything.%20Your%20move%20is%20applied%20within%20about%20a%20minute.) |
+| ♙ **E2** | [E3](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=chess%7Cmove%7Ce2e3%7C1&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20no%20need%20to%20write%20anything.%20Your%20move%20is%20applied%20within%20about%20a%20minute.), [E4](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=chess%7Cmove%7Ce2e4%7C1&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20no%20need%20to%20write%20anything.%20Your%20move%20is%20applied%20within%20about%20a%20minute.) |
+| ♙ **F2** | [F3](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=chess%7Cmove%7Cf2f3%7C1&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20no%20need%20to%20write%20anything.%20Your%20move%20is%20applied%20within%20about%20a%20minute.), [F4](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=chess%7Cmove%7Cf2f4%7C1&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20no%20need%20to%20write%20anything.%20Your%20move%20is%20applied%20within%20about%20a%20minute.) |
+| ♘ **G1** | [F3](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=chess%7Cmove%7Cg1f3%7C1&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20no%20need%20to%20write%20anything.%20Your%20move%20is%20applied%20within%20about%20a%20minute.), [H3](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=chess%7Cmove%7Cg1h3%7C1&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20no%20need%20to%20write%20anything.%20Your%20move%20is%20applied%20within%20about%20a%20minute.) |
+| ♙ **G2** | [G3](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=chess%7Cmove%7Cg2g3%7C1&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20no%20need%20to%20write%20anything.%20Your%20move%20is%20applied%20within%20about%20a%20minute.), [G4](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=chess%7Cmove%7Cg2g4%7C1&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20no%20need%20to%20write%20anything.%20Your%20move%20is%20applied%20within%20about%20a%20minute.) |
+| ♙ **H2** | [H3](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=chess%7Cmove%7Ch2h3%7C1&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20no%20need%20to%20write%20anything.%20Your%20move%20is%20applied%20within%20about%20a%20minute.), [H4](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=chess%7Cmove%7Ch2h4%7C1&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20no%20need%20to%20write%20anything.%20Your%20move%20is%20applied%20within%20about%20a%20minute.) |
+<!--CHESS:END-->
+
+### ✍️ Guestbook
+
+Say hi! Your avatar and message will appear here.
+
+<!--GUESTBOOK:START-->
+[**✍️ Sign the guestbook**](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=guestbook%7Csign&body=Replace%20this%20line%20with%20your%20message%20%28up%20to%20140%20characters%29%2C%20then%20press%20%2A%2ACreate%2A%2A.) · 0 signatures so far
+
+_Be the first to sign!_
+<!--GUESTBOOK:END-->
+
+---
+
 ### 🛠️ Languages and tools
 
 **Languages**
