@@ -157,9 +157,11 @@ _Be the first to sign!_
   <summary>⚡ Recent GitHub activity</summary>
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed 9 times to `main` in [usamaeltmsah/usamaeltmsah.github.io](https://github.com/usamaeltmsah/usamaeltmsah.github.io)
-2. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
-3. ⬆️ Pushed 7 times to `main` in [usamaeltmsah/usamaeltmsah.github.io](https://github.com/usamaeltmsah/usamaeltmsah.github.io)
+1. ❗ Opened issue [#2](https://github.com/usamaeltmsah/usamaeltmsah/issues/2) in [usamaeltmsah/usamaeltmsah](https://github.com/usamaeltmsah/usamaeltmsah)
+2. ❗ Opened issue [#1](https://github.com/usamaeltmsah/usamaeltmsah/issues/1) in [usamaeltmsah/usamaeltmsah](https://github.com/usamaeltmsah/usamaeltmsah)
+3. ⬆️ Pushed 9 times to `main` in [usamaeltmsah/usamaeltmsah.github.io](https://github.com/usamaeltmsah/usamaeltmsah.github.io)
+4. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
+5. ⬆️ Pushed 7 times to `main` in [usamaeltmsah/usamaeltmsah.github.io](https://github.com/usamaeltmsah/usamaeltmsah.github.io)
 <!--END_SECTION:activity-->
 
 </details>
