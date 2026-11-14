@@ -139,7 +139,7 @@ Game 1 · move 2 · **Black** to move · last: **exd5** by [@usamaeltmsah](https
 <details>
   <summary>Read the messages</summary>
 
-- **[@usamaeltmsah](https://github.com/usamaeltmsah)**: Welcome to my profile\! Thanks for stopping by 👋 <sub>2026-11-14</sub>
+- **[@usamaeltmsah](https://github.com/usamaeltmsah)**: This is just a test, thanks\! <sub>2026-11-14</sub>
 
 </details>
 <!--GUESTBOOK:END-->
