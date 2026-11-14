@@ -132,13 +132,14 @@ Game 1 · move 2 · **Black** to move · last: **exd5** by [@usamaeltmsah](https
 <!--CHESS:END-->
 
 <!--GUESTBOOK:START-->
-**✍️ Guestbook** · 1 signature · [**Sign it**](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=guestbook%7Csign&body=Replace%20this%20line%20with%20your%20message%20%28up%20to%20140%20characters%29%2C%20then%20press%20%2A%2ACreate%2A%2A.)
+**✍️ Guestbook** · 2 signatures · [**Sign it**](https://github.com/usamaeltmsah/usamaeltmsah/issues/new?title=guestbook%7Csign&body=Replace%20this%20line%20with%20your%20message%20%28up%20to%20140%20characters%29%2C%20then%20press%20%2A%2ACreate%2A%2A.)
 
-<a href="https://github.com/usamaeltmsah"><img src="https://github.com/usamaeltmsah.png?size=64" width="32" height="32" alt="@usamaeltmsah" /></a>
+<a href="https://github.com/usamaeltmsahvodafone"><img src="https://github.com/usamaeltmsahvodafone.png?size=64" width="32" height="32" alt="@usamaeltmsahvodafone" /></a> <a href="https://github.com/usamaeltmsah"><img src="https://github.com/usamaeltmsah.png?size=64" width="32" height="32" alt="@usamaeltmsah" /></a>
 
 <details>
   <summary>Read the messages</summary>
 
+- **[@usamaeltmsahvodafone](https://github.com/usamaeltmsahvodafone)**: Test from another user\! <sub>2026-11-14</sub>
 - **[@usamaeltmsah](https://github.com/usamaeltmsah)**: This is just a test, thanks\! <sub>2026-11-14</sub>
 
 </details>
