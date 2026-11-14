@@ -40,7 +40,9 @@
 
 ### ♟️ Let's play chess: a game for all my visitors
 
-Everyone who visits plays the same game. Pick a move below; it opens a ready-made issue, you press **Create**, and within about a minute the board updates with your name on it. You can't play two moves in a row, so bring a friend to play the other side!
+Everyone who visits plays the same game. Drag a piece on the interactive board, or pick a move below; it opens a ready-made issue, you press **Create**, and within about a minute the board updates with your name on it. You can't play two moves in a row, so bring a friend to play the other side!
+
+<p><a href="https://usamaeltmsah.github.io/chess/"><img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F%20Play%20with%20drag%20and%20drop-7c3aed?style=for-the-badge" alt="Play with drag and drop" /></a></p>
 
 <!--CHESS:START-->
 **Game 1** · move 2 · it's **Black's** turn
