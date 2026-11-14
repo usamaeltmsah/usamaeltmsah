@@ -42,14 +42,7 @@
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=swift,python,java,cpp,ruby,php,react,firebase,sqlite,mysql,postgres,mongodb,elasticsearch,laravel,git,githubactions,linux,selenium,arduino,ps&perline=10" alt="Swift, Python, Java, C++, Ruby, PHP, React Native, Firebase, SQLite, MySQL, PostgreSQL, MongoDB, Elasticsearch, Laravel, Git, GitHub Actions, Linux, Selenium, Arduino, Photoshop" /></a>
 
-<img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white" alt="SwiftUI" />
-<img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white" alt="UIKit" />
-<img src="https://img.shields.io/badge/Combine-FA7343?style=flat&logo=swift&logoColor=white" alt="Combine" />
-<img src="https://img.shields.io/badge/Core%20Data-555555?style=flat&logo=apple&logoColor=white" alt="Core Data" />
-<img src="https://img.shields.io/badge/WidgetKit-34C759?style=flat&logo=apple&logoColor=white" alt="WidgetKit" />
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white" alt="Xcode" />
-<img src="https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white" alt="Realm" />
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=white" alt="React Native" />
+<p><img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white" alt="SwiftUI" /> <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white" alt="UIKit" /> <img src="https://img.shields.io/badge/Combine-FA7343?style=flat&logo=swift&logoColor=white" alt="Combine" /> <img src="https://img.shields.io/badge/Core%20Data-555555?style=flat&logo=apple&logoColor=white" alt="Core Data" /> <img src="https://img.shields.io/badge/WidgetKit-34C759?style=flat&logo=apple&logoColor=white" alt="WidgetKit" /> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white" alt="Xcode" /> <img src="https://img.shields.io/badge/Realm-39477F?style=flat&logo=mongodb&logoColor=white" alt="Realm" /> <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=white" alt="React Native" /></p>
 
 ---
 
